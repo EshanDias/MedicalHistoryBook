@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "664497866643",
+    "firebase_url": "https://medicalhistorybook.firebaseio.com",
+    "project_id": "medicalhistorybook",
+    "storage_bucket": "medicalhistorybook.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664497866643:android:32f66d03cdb2a0b2",
+        "android_client_info": {
+          "package_name": "com.uee.sliit.medicalhistorybook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664497866643-rqni4jabsm24gnp9snbe3c6llfb967oq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uee.sliit.medicalhistorybook",
+            "certificate_hash": "b1466977900480fccfe662efa7af9c7d0a5e0e6b"
+          }
+        },
+        {
+          "client_id": "664497866643-6b48grmg0gnm22jsm65q6l812fovd2bo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQJg8vcE_hCrfYYzg-a2IyHwv-kZF-XPA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664497866643-6b48grmg0gnm22jsm65q6l812fovd2bo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
